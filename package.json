@@ -1,0 +1,30 @@
+{
+  "name": "template-express-nodejs",
+  "version": "1.0.0",
+  "description": "Social Login App and Session control",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quindai/Template-Express-NodeJS.git"
+  },
+  "author": "[your name]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quindai/Template-Express-NodeJS/issues"
+  },
+  "homepage": "https://github.com/quindai/Template-Express-NodeJS#readme",
+  "keywords": [
+    "Template",
+    "Express",
+    "NodeJS"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "kerberos": "^1.1.2",
+    "mongoose": "4.2.8",
+    "validator": "^10.9.0"
+  }
+}
